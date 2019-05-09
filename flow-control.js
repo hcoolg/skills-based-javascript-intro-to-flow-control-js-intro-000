@@ -27,7 +27,7 @@ function ageChecker(age) {
 }
 }
 function ternaryTeenager(age) {
-  if ( age is between )
+
 
 }
 
