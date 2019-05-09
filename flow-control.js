@@ -1,4 +1,5 @@
 function basicTeenager(age) {
+  console.log('age')
   if ('the age is between 13-19') {
     console.log('You are a teenageer!')
   }else{
