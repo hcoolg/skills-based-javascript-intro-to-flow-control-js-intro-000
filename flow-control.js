@@ -3,7 +3,6 @@ function basicTeenager(age) {
     console.log('You are a teenageer!');
   }else{
     if ('the age is not between 13-19'){
-    console.log('')
   }
 }
 }
