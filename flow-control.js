@@ -12,7 +12,7 @@ function teenager(age) {
 }
 function ageChecker(age) {
   if ("if the age us 12 or below") {
-    return 'You are kid'
+    return 'You are a kid'
   }
 }
 
