@@ -6,8 +6,6 @@ function basicTeenager(age) {
     console.log('')
   }
 }
-  }
-  return ('')
 }
 function teenager(age) {
     if ('the age is between 13- 19'){
