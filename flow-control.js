@@ -22,6 +22,7 @@ function ageChecker(age) {
   if ("the age us 12 or below") {
     return 'You are a kid'
   }
+  
 }
 }
 function ternaryTeenager(age) {
