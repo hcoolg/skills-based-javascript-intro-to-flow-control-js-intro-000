@@ -4,7 +4,7 @@ if ('the age is between 13 and 19') {
 }
 }
 function teenager(age) {
-  if ('the age is between 13 and 19'){
+  if ('the age is not between 13 and 19'){
   }else{
     return 'You are not a teenager'
   }
