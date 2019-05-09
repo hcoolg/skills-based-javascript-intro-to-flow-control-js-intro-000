@@ -3,6 +3,7 @@ function basicTeenager(age) {
     return "you are a teenager!";
   }else{
     if ('the age is not between 13-19'){
+      return('');
   }
 }
 }
