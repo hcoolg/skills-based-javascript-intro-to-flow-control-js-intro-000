@@ -26,9 +26,6 @@ function ageChecker(age) {
 }
 }
 function ternaryTeenager(age) {
-theagebetween13-19? Youareateenager : Youarenotateenager;
-}{
-return theagebetween13-19? Youareateenager : Youarenotateenager;
 }
 function switchAge(age) {
 }
